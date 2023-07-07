@@ -88,10 +88,7 @@ Step 1:
   ```
 
  Step 4:
-  ```bash 
-  cd to the GitHub Repo till src folder
-  ```
-  Command may look like: `cd C:\Users\.....\Gesture-Controlled-Virtual-Mouse\src`
+  Command may look like: `cd C:\Users\.....\Gesture-Controlled-Virtual-Mouse`
 
    Step 5:
   ```bash 
